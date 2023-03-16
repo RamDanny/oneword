@@ -12,5 +12,4 @@ Welcome to Oneword!
   2. TinyDB -- For storage (https://tinydb.readthedocs.io/en/latest/index.html)
   3. All-escapes -- For representing binary esscapes in text (https://pypi.org/project/all-escapes/)
 
-* The only thing to remember is to keep noting down the passphrase generated for every session
-  This is done for security reasons
+* The only thing to remember is to keep noting down the passphrase generated for every session. This is done for security reasons
